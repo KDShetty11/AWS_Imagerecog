@@ -29,13 +29,13 @@ This project demonstrates a complete pipeline using **AWS services** such as EC2
 
 ├── FaceRecognition
 │   └── FaceRecognition.java
-│   └── FaceRecognition.jar
+│   └── pom.xml (With AWS SDK Dependencies)
 ├── TextRecognition
 │   └── TextRecognition.java
-│   └── TextRecognition.jar
-├── output.txt
+│   └── pom.xml (With AWS SDK Dependencies)
+├── FaceRecognition.jar
 ├── AWS Image Recognition guide.pdf
-└── pom.xml (With AWS SDK Dependencies)
+└── TextRecognition.jar
 
 ````
 
